@@ -1,0 +1,13 @@
+Wireshark is a network protocol analyzer that lets you capture and interactively examine the data traveling through a computer network. It is one of the most essential tools for network troubleshooting, protocol development, and cybersecurity analysis.
+
+What Wireshark Can Do
+1)Capture live network traffic from various interfaces (Ethernet, Wi-Fi, etc.).
+2)Inspect individual packets at a very detailed level (headers, payloads, etc.).
+3)Filter packets by protocol, IP address, port, or other parameters.
+4)Analyze communication between devices using protocols like HTTP, TCP, DNS, ARP, and many more.
+5)Reconstruct TCP streams to view entire conversations (e.g., HTTP requests/responses).
+6)Resolve domain names and IP addresses from captured DNS traffic.
+7)Detect anomalies or malicious activity in network traffic.
+8)Export capture data to .pcap files for sharing or further analysis.
+9)Visualize protocol hierarchy, endpoints, and conversations.
+10)Cross-platform support (Windows, macOS, Linux).
