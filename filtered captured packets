@@ -1,1 +1,4 @@
-
+number  time          source     destination    protocol     length     info
+192	    16.771395443	10.0.2.15	10.101.187.248	  DNS	          78	      Standard query 0x504c A alive.github.com
+1	      0.000000000	  8.8.8.8	  10.0.2.15	        ICMP	        100	      Echo (ping) reply    id=0x0001, seq=12/3072, ttl=255
+5	      1.022251831	  10.0.2.15	162.159.142.9	    TCP	          54	      60468 → 80 [ACK] Seq=1 Ack=1 Win=63424 Len=0
